@@ -121,3 +121,9 @@ footer {
     justify-content: center;
     color: #9e9e9e;
 }
+
+@media screen and (max-width: 420px) {
+    body {
+        height: 80vh;
+    }
+}
