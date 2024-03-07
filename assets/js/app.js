@@ -10,7 +10,11 @@ const displayResult = () => {
         window.open(searchURL);
     } else {
         const warning = document.querySelector("#warning");
-        warning.style.display = 'inline';
+        warning.style.display = 'inline'
+        
+        setTimeout(function() {
+            warning.style.display = 'none'
+        }, 2000);
     }
 };
 
