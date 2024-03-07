@@ -32,5 +32,5 @@ The project consists of an HTML file (`index.html`), a CSS file (`style.css`), a
 
 ## Live Preview 🌟
 
-You can view a live preview of the Google search page [here](https://your-live-preview-link).
+You can view a live preview of the Google search page [here]([https://your-live-preview-link](https://google-search-rho.vercel.app/)https://google-search-rho.vercel.app/).
 
